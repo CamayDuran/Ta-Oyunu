@@ -1,0 +1,26 @@
+C:\Users\Lenovo\source\repos\YazilimSinama1\bin\Debug\YazilimSinama1.exe.config
+C:\Users\Lenovo\source\repos\YazilimSinama1\bin\Debug\YazilimSinama1.exe
+C:\Users\Lenovo\source\repos\YazilimSinama1\bin\Debug\YazilimSinama1.pdb
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.Form1.resources
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.exe
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.pdb
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.Form2.resources
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.Form3.resources
+C:\Users\Lenovo\source\repos\YazilimSinama1\obj\Debug\YazilimSinama1.Form4.resources
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\bin\Debug\YazilimSinama1.exe.config
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\bin\Debug\YazilimSinama1.exe
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\bin\Debug\YazilimSinama1.pdb
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.Form1.resources
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.Form2.resources
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.Form3.resources
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.Form4.resources
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.exe
+C:\Users\Lenovo\Desktop\3. sınıf ödevler\YazilimSinama1\obj\Debug\YazilimSinama1.pdb
